@@ -1,0 +1,14 @@
+{
+  "brand": "CeaserMD",
+  "title": "CeaserMD · WhatsApp Pairing",
+  "port": 10000,
+  "description": "A dynamic WhatsApp pairing portal for the CeaserMD multi-session bot.",
+  "customPairingCode": "CEASERMD",
+  "owner": {
+    "name": "Lord Ceaser Himself",
+    "whatsappNumber": "2347066248340",
+    "telegramUsername": "lord_ceaser_himself",
+    "whatsappUrl": "https://wa.me/2347066248340",
+    "telegramUrl": "https://t.me/lord_ceaser_himself"
+  }
+}

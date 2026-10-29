@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: ceasermd-pairing
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: SESSIONS_DIR
+        value: ./sessions
+      - key: DATA_DIR
+        value: ./data
